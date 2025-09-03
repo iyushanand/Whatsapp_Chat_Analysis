@@ -3,7 +3,7 @@
 A Streamlit-based web app to analyze WhatsApp chat exports.  
 Upload your exported `_chat.txt` file, and the app will generate **interactive visualizations** and **statistics** about the conversation.
 
-Select the option from the dropdown menu for which you want see the analysis 
+Select the option from the dropdown menu for which you want see the analysis             
 Click on Show analysis button w.r.t to which you want to see the analysis 
 ---
 
